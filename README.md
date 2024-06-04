@@ -1,6 +1,6 @@
 
 
-This is a simple Todo List application built using React.
+This is a simple Todo List application built using ReactJS
 
 ## Installation
 
@@ -22,5 +22,7 @@ This is a simple Todo List application built using React.
 
 
 5. Open your web browser and visit http://localhost:3000 to see the Todo List application.
+
+6. Live Demo : https://sairamravuri321.github.io/to-do-List/
 
 
